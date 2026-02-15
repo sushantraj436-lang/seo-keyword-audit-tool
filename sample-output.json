@@ -1,0 +1,87 @@
+Enter URL: https://www.umaxbooks.com/bookkeeping.php
+{
+    "url": "https://www.umaxbooks.com/bookkeeping.php",
+    "top_service_related_keywords": [
+        {
+            "keyword": "strategic consulting",
+            "score": 17
+        },
+        {
+            "keyword": "financial reporting",
+            "score": 14
+        },
+        {
+            "keyword": "payroll service",
+            "score": 13
+        },
+        {
+            "keyword": "business advisory",
+            "score": 13
+        },
+        {
+            "keyword": "accounting software",
+            "score": 13
+        },
+        {
+            "keyword": "accounting software migration",
+            "score": 13
+        },
+        {
+            "keyword": "bookkeeping services",
+            "score": 8
+        },
+        {
+            "keyword": "professional bookkeeping",
+            "score": 5
+        },
+        {
+            "keyword": "tax planning",
+            "score": 4
+        },
+        {
+            "keyword": "tax preparation",
+            "score": 4
+        },
+        {
+            "keyword": "better financial",
+            "score": 4
+        },
+        {
+            "keyword": "financial report",
+            "score": 4
+        },
+        {
+            "keyword": "payroll services",
+            "score": 4
+        },
+        {
+            "keyword": "bussiness advisory",
+            "score": 4
+        },
+        {
+            "keyword": "financial decisions",
+            "score": 4
+        },
+        {
+            "keyword": "tax preparation readiness",
+            "score": 4
+        },
+        {
+            "keyword": "better financial decisions",
+            "score": 4
+        },
+        {
+            "keyword": "professional bookkeeping services",
+            "score": 4
+        },
+        {
+            "keyword": "bookkeeping services include",
+            "score": 3
+        },
+        {
+            "keyword": "financial records",
+            "score": 2
+        }
+    ]
+}
+
