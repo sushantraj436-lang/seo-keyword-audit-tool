@@ -71,7 +71,7 @@ This project is intended as a learning and workflow demonstration tool rather th
 ## ▶️ How to Run
 
 1. Clone this repository
-github clone https://github.com/YOUR-USERNAME/seo-keyword-audit-tool.git
+github clone [https://github.com/YOUR-USERNAME/seo-keyword-audit-tool.git](https://github.com/sushantraj436-lang/seo-keyword-audit-tool/edit/main/README.md)
  
 2. Install dependencies
 pip install -r requirements.txt
